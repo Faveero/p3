@@ -27,4 +27,4 @@ function mostraPergunta(){
 }
 mostraPergunta();
 
-const caixaPerguntas = document.querySelector(".caixa-perguntas");
+//const caixaPerguntas = document.querySelector(".caixa-perguntas");
